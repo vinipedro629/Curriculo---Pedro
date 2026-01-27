@@ -1,0 +1,8 @@
+// O arquivo `.cursor/rules.mdc` define diretrizes, personalidade, padrões e regras de implementação de código para o ambiente Cursor IDE. 
+// Ele serve como um guia para que a inteligência artificial (IA) siga padrões específicos durante a escrita de código e respostas, orientando sobre:
+// - Quais tecnologias são foco (ReactJS, NextJS, TypeScript, Tailwind, etc.)
+// - Como responder (de forma detalhada, com raciocínio, clareza e precisão).
+// - Estilo de código: sempre usar Tailwind, early returns, nomes descritivos, acessibilidade, funções como “const X = ...”, sem deixar pendências ou trechos incompletos.
+// - Sempre confirmar os passos com pseudocódigo antes de executar a implementação.
+// - Princípios como DRY, acessibilidade e melhores práticas.
+// Em resumo, esse arquivo funciona como um “contrato” de qualidade, clareza e padrão para todo o código gerado e respostas da IA dentro do projeto.
