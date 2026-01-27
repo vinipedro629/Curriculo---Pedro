@@ -1,0 +1,10 @@
+// O arquivo `.cursor/rules.mdc` serve para centralizar as regras, diretrizes, estilo de comunicação e requisitos técnicos que a IA deve seguir no Cursor IDE. 
+// Ele determina como os códigos devem ser escritos e como as respostas devem ser estruturadas pelo assistente, especificando pontos como:
+// - Tecnologias prioritárias (por exemplo: React, Next.js, Bootstrap, etc.)
+// - Formato de resposta (claro, técnico, com exemplos práticos e foco em explicação de decisões e uso de padrões Bootstrap).
+// - Boas práticas de desenvolvimento: clareza, acessibilidade, uso de componentes Bootstrap, organização e código limpo.
+// - Convenções para nomeação, estruturação e organização dos arquivos.
+// - Validação de entradas, apresentação de erros com componentes visuais adequados e foco na experiência do usuário.
+// Dessa forma, o `.cursor/rules.mdc` atua como um manual, garantindo consistência, qualidade e alinhamento das implementações geradas no projeto.
+
+
