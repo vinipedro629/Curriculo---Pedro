@@ -1,0 +1,20 @@
+Desenvolvedor Web Júnior especializado em projetos full stack utilizando React, Next.js, Node.js e TypeScript, com mais de 1 ano de experiência prática em ambientes acadêmicos e iniciando atuação profissional. Possuo conhecimento em integração de APIs, automação de processos, testes e deploy com Docker e CI/CD. Entre minhas conquistas, destaco a criação e manutenção de soluções web escaláveis e com foco em acessibilidade, além de participação ativa em projetos open source na área de tecnologia. Já atuei como estagiário de TI na Secretaria de Economia/DF e como Office Boy na Drogaria Brasil, desenvolvendo habilidades de organização, comunicação e trabalho em equipe. Busco sempre entregar resultados de qualidade, contribuir com boas práticas e crescer tecnicamente junto ao time.
+
+Para colocar todos os arquivos do seu projeto na caixa de texto quando usar a IA com Ctrl+K (no Cursor IDE), basta digitar três barras `/` na caixa de prompt (ou clicar na opção "Incluir todos os arquivos" quando disponível). Assim, a IA terá acesso ao contexto completo dos seus arquivos para responder melhor sua solicitação.
+
+// Exemplo prático:
+// 1. Pressione Ctrl+K para abrir a caixa de texto.
+// 2. Digite: ///
+// 3. Escreva seu pedido normalmente após as barras ou aguarde a IA carregar todo o contexto dos arquivos automaticamente.
+
+Isso informa ao assistente que ele deve considerar o conteúdo de todos os arquivos do projeto ao gerar a resposta.
+
+// Para ler todos os arquivos do projeto (no Cursor IDE), use o comando /// na caixa de prompt da IA. 
+// Isso garantirá que a resposta gerada considere o conteúdo completo do seu projeto.
+// Exemplo de uso:
+//   1. Pressione Ctrl+K para abrir o prompt.
+//   2. Digite: ///
+//   3. Depois, escreva seu pedido normalmente.
+
+O agente review tem a função de analisar cuidadosamente o código, documentação ou outros arquivos do projeto para identificar possíveis melhorias, correções e garantir que tudo esteja de acordo com as diretrizes estabelecidas. Ele pode apontar inconsistências, sugerir boas práticas, verificar aderência a padrões tecnológicos (por exemplo, uso correto do Bootstrap, clareza e acessibilidade), e ajudar a elevar a qualidade do projeto como um todo. No contexto da IA (como no Cursor IDE), o agente review atua de forma automatizada ou assistida, oferecendo feedback detalhado e recomendações para aprimoramento antes do código ser avançado ou aprovado.
+
